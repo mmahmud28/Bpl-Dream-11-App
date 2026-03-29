@@ -1,7 +1,7 @@
 [
   {
     "playerName": "Virat Kohli",
-    "playerCounter": 1,
+    "playerCounter": "IND",
     "playerType": "Batsman",
     "rating": 9.8,
     "battingStyle": "Right-hand bat",
@@ -11,7 +11,7 @@
   },
   {
     "playerName": "Babar Azam",
-    "playerCounter": 2,
+    "playerCounter": "BD",
     "playerType": "Batsman",
     "rating": 9.5,
     "battingStyle": "Right-hand bat",
@@ -21,7 +21,7 @@
   },
   {
     "playerName": "Ben Stokes",
-    "playerCounter": 3,
+    "playerCounter": "PAK",
     "playerType": "All-rounder",
     "rating": 9.2,
     "battingStyle": "Left-hand bat",
@@ -31,7 +31,7 @@
   },
   {
     "playerName": "Shakib Al Hasan",
-    "playerCounter": 4,
+    "playerCounter": "BD",
     "playerType": "All-rounder",
     "rating": 9.4,
     "battingStyle": "Left-hand bat",
@@ -41,7 +41,7 @@
   },
   {
     "playerName": "Jasprit Bumrah",
-    "playerCounter": 5,
+    "playerCounter": "PAK",
     "playerType": "Bowler",
     "rating": 9.6,
     "battingStyle": "Right-hand bat",
@@ -51,7 +51,7 @@
   },
   {
     "playerName": "Trent Boult",
-    "playerCounter": 6,
+    "playerCounter": "BD",
     "playerType": "Bowler",
     "rating": 9.1,
     "battingStyle": "Right-hand bat",
